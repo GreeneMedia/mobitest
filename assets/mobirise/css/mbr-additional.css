@@ -580,3 +580,62 @@ a:hover {
 #menu1-0 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#header5-1 .mbr-section-title,
+#header5-1 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#header5-1 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header5-1 .mbr-table-cell {
+  vertical-align: middle;
+}
+#features2-2 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#features3-3 .mbr-iconfont {
+  background: #5aac98;
+  border-color: #5aac98;
+}
+#features3-3 .features {
+  background: #f6f7f8;
+}
+#features14-4 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
+}
+#msg-box1-5 H1 {
+  color: #333333;
+}
+#pricing-table1-6 th.default {
+  background: #6091b7;
+}
+#pricing-table1-6 th.favorite {
+  background: #5aac98;
+}
+#form2-8 .heading {
+  background: #5aac98;
+}
+#form3-7 .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#form3-7 .card-img a {
+  color: #616161;
+  border-color: #616161;
+  border-width: 2px;
+  line-height: 72px;
+}
+#form3-7 .heading {
+  background: #447eaa;
+}
+#custom-html-b {
+  /* Type valid CSS here */
+}
+#custom-html-b .my-image {
+  width: 100%;
+}
